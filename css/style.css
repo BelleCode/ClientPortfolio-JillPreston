@@ -26,7 +26,7 @@ body {
     background-size: cover;
     background-color: rgba(138, 192, 216, 5);
     min-height: 400px;
-    background-image: radial-gradient(circle 827px at 47.3% 48%, rgba(255, 255, 255, 1) 0%, rgba(138, 192, 216, 1) 90%);
+    background-image: radial-gradient(circle 827px at 47.3% 48%, rgba(255, 255, 255, 1) 0%, #F3F1C1 90%);
 }
 
 /* Show big images on bigger screens */
